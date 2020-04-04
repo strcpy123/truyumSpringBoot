@@ -1,0 +1,14 @@
+<nav class="navbar navbar-dark bg-primary">
+	<div class="container-fluid">
+		<div class="navbar-header">
+		<ul class="nav navbar-nav">
+			<li class="active"><a class="navbar-brand" href="#">tryYum<img
+					src="https://image.flaticon.com/icons/svg/1046/1046857.svg"
+					height="25" width="25" align="middle"></a></li>
+		</ul>
+		</div>
+		<ul class="nav navbar-nav navbar-right">
+			<li class="active"><a href="/show-menu-item-list-admin">Menu</a></li>
+		</ul>
+	</div>
+</nav>

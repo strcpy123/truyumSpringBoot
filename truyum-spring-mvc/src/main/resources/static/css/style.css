@@ -1,0 +1,23 @@
+* {
+	margin:0px;
+	padding:0px;	
+}
+a{
+	background-color: #007BFF;
+	color: #ffffff;
+}
+
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #BFBFBF;
+   color: white;
+}
+footer p{
+	color:#0A0A0A;
+	padding:10px;
+}
+
+
